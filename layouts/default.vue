@@ -1,5 +1,5 @@
 <template>
-  <div class="dark-mode"> 
+  <div> 
     <ColorModePicker/>
     <Nuxt />
  
