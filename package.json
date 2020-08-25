@@ -16,6 +16,7 @@
   "devDependencies": {
     "@nuxtjs/color-mode": "^1.0.3",
     "@nuxtjs/tailwindcss": "^2.1.0",
-    "tailwindcss-dark-mode": "^1.1.6"
+    "tailwindcss-dark-mode": "^1.1.6",
+    "vue-toggles": "^1.1.0"
   }
 }

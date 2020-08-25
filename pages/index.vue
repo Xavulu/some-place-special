@@ -6,7 +6,9 @@
 
 <script>
   export default {
-    
+    layout(context) {
+      return 'home'
+    }
   }
 </script>
 
