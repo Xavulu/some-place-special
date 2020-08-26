@@ -1,6 +1,6 @@
 <template>
   <div> 
-      <ColorModePicker/>
+      <ColorModePicker class="absolute top-0 right-0"/>
       <h1>this is the home page</h1>
     <Nuxt />
   </div>

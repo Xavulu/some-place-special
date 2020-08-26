@@ -1,6 +1,7 @@
 <template> 
     <div > 
-        <button class="btn border border-white capitalize" @click="changeMode">
+        <button class="bg-light-lavender dark:bg-dark-grey border-light-hover dark:border-dark-dhover hover:bg-light-hover dark-hover:bg-dark-dhover font-bold py-2 px-4 rounded-full" @click="changeMode">
+        
         {{ btnLabel }}
         </button> 
     </div>

@@ -15,6 +15,7 @@ module.exports = {
             lavender: 'var(--light-lavender)', 
             red: 'var(--light-red)', 
             logo: 'var(--light-logo)',
+            hover: 'var(--light-hover)',
           }, 
           dark: { 
             default: 'var(--dark-black)', 
@@ -22,6 +23,7 @@ module.exports = {
             teal: 'var(--dark-teal)', 
             blue: 'var(--dark-blue)', 
             logo: 'var(--dark-logo)',
+            dhover: 'var(--dark-dhover)'
           },
       },
     },

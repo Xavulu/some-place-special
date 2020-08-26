@@ -1,11 +1,13 @@
 :root { 
     --light-lavender: #bbadd2;
+    --light-hover: #b694ec;
     --light-pink: #f3b5b5ce;
     --light-beige: #fcdadf;
     --light-red: #ED1C24; 
     --light-logo: #422441;
     --dark-black: #23272a; 
-    --dark-grey: #3e4146; 
+    --dark-grey: #4b4e53; 
+    --dark-dhover: #6e7177; 
     --dark-teal: #99aab5; 
     --dark-blue: #7289da; 
     --dark-logo: #D4F2D2;
