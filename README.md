@@ -1,9 +1,11 @@
+![exef_logo](/assets/images/exef_logo_dark.svg)
+
 # exef
 
 ## Build Setup
 
 ``` 
-    the site is a work in progress and very much hideous atm
+    the site is a work in progress and very much hideous atm, once agin shout outs to Froyo Tam for the ferrite core font tho
 ```
 
 ```bash
