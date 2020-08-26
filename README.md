@@ -5,7 +5,7 @@
 ## Build Setup
 
 ``` 
-    the site is a work in progress and very much hideous atm, once agin shout outs to Froyo Tam for the ferrite core font tho
+    the site is a work in progress and very much hideous atm, once again shout outs to Froyo Tam for the ferrite core font tho
 ```
 
 ```bash
