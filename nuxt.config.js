@@ -22,7 +22,7 @@ export default {
       { hid: 'description', name: 'description', content: 'Xavier Fernandez | aspiring software engineer | exef.dev' }
     ],
     link: [
-      { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
+      { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico?v4' }
     ]
   },
   /*
