@@ -1,4 +1,4 @@
-![exef_logo](/assets/images/exef_logo_light.svg)
+![exef_logo](/assets/images/exef_logo_light.png)
 
 # exef
 
