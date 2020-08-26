@@ -2,6 +2,10 @@
 
 ## Build Setup
 
+``` 
+    the site is a work in progress and very much hideous atm
+```
+
 ```bash
 # install dependencies
 $ yarn install
