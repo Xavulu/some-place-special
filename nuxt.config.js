@@ -71,8 +71,9 @@ export default {
   */
   content: {},
   generate: {
-   
+    
   },
+
   /*
   ** Build configuration
   ** See https://nuxtjs.org/api/configuration-build/
