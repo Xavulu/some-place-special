@@ -1,6 +1,6 @@
 <template> 
     <div > 
-        <button aria-label="light and dark mode switch" class="bg-light-lavender dark:bg-dark-grey border-light-hover dark:border-dark-dhover hover:bg-light-hover dark-hover:bg-dark-dhover font-bold py-2 px-4 rounded-full" @click="changeMode">
+        <button aria-label="light and dark mode switch" class="bg-light-lavender dark:bg-dark-grey border-light-hover dark:border-dark-dhover hover:bg-light-hover dark-hover:bg-dark-dhover font-bold py-2 px-4 rounded-full rounded shadow" @click="changeMode">
         
         {{ btnLabel }}
         </button> 

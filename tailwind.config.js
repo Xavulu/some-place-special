@@ -53,7 +53,7 @@ module.exports = {
        'responsive'
       ]
   },
-  plugins: [require('tailwindcss-dark-mode')()],
+  plugins: [require('tailwindcss-dark-mode')(), require("@tailwindcss/typography")()],
   purge: {
     // Learn more on https://tailwindcss.com/docs/controlling-file-size/#removing-unused-css
     enabled: process.env.NODE_ENV === 'production',

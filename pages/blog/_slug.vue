@@ -1,7 +1,10 @@
 <template>
     <div>
+        <h2>{{blog.title}}</h2>
         <blog> 
-            <nuxt-content :document="blog" /> 
+            <nuxt-content 
+            class="prose prose-sm sm:prose lg:prose-lg xl:prose-2xl mx-auto text-black dark:text-white"
+            :document="blog" /> 
         </blog>
     </div>
 </template>
