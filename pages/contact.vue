@@ -4,7 +4,7 @@
       Contact
     </h1>
     <div class="content">
-      <form name="contact" action="/thank-you" netlify-honeypot="bot-field" method="post" netlify>
+      <form name="contact" action="/" netlify-honeypot="bot-field" method="post" netlify>
         <input type="hidden" name="form-name" value="contact" />
         <p class="hidden">     
           <label>Don’t fill this out: <input name="bot-field"></label>   
