@@ -1,6 +1,8 @@
 ![exef_logo](/assets/images/exef_logo_light.png)
 
-# exef
+[![Netlify Status](https://api.netlify.com/api/v1/badges/ea6d4222-07db-4e11-b7bb-ce95f745e042/deploy-status)](https://app.netlify.com/sites/sad-sammet-711233/deploys)
+# exef 
+
 
 ## Build Setup
 
