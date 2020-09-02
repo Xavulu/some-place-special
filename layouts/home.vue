@@ -1,9 +1,8 @@
 <template>
   <div> 
-      
+      <Splash/>
       <ColorModePicker class="absolute top-0 right-0"/>
       <h1>this is the home page</h1>
-      <Splash/>
     <Nuxt />
   </div>
 </template>
@@ -19,3 +18,5 @@
   @apply bg-light;
 }
 </style>
+
+

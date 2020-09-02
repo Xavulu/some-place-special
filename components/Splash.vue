@@ -1,5 +1,5 @@
 <template>
-    <div>
+    <div class="absolute inset-0 flex items-center justify-center">
         <img v-if="mode === 'light'" class="logo" src="~/static/images/exef_logo_light.png/" style="width:700px" alt="exef.dev logo"/> 
         <img v-else-if="mode === 'dark'" class="logo" src="~/static/images/exef_logo_dark.png/" style="width:700px" alt="exef.dev logo"/>
     </div>

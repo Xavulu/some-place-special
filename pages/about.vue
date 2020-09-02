@@ -8,7 +8,7 @@
     export default {
         layout(context) {
             return 'default'
-        }
+        },
     }
 </script>
 
