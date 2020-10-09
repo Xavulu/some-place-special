@@ -6,7 +6,7 @@
             <p> someplace special</p> 
             </div>
         <div class="inset-2 flex items-center justify-bottom">
-            <div class="grid grid-cols-3 gap-10">
+            <div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-3 xl:grid-cols-3 gap-10 ">
                 <div class="inline-block font-bold px-4 py-2 m-2"> >  <strong class="text-light-logo dark:text-dark-blue">about[ <nuxt-link to="/about" class="text-light-red dark:text-dark-logo hover:bg-light-hover dark-hover:bg-dark-dhover ">+</nuxt-link> ]</strong></div>
                 <div class="inline-block font-bold px-4 py-2 m-2"> > <strong class="text-light-logo dark:text-dark-blue">work[ <nuxt-link to="/work" class="text-light-red dark:text-dark-logo hover:bg-light-hover dark-hover:bg-dark-dhover">+</nuxt-link> ]</strong></div>
                 <div class="inline-block font-bold px-4 py-2 m-2"> > <strong class="text-light-logo dark:text-dark-blue">fun[ <nuxt-link to="/fun" class="text-light-red dark:text-dark-logo hover:bg-light-hover dark-hover:bg-dark-dhover">+</nuxt-link> ]</strong></div> 
