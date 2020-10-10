@@ -14,7 +14,7 @@ export default {
       return this.$colorMode;
     },
     btnLabel() {
-      return this.$colorMode.preference === "light" ? "dark" : "light";
+      return this.$colorMode.preference === "light" ? "☽"  : "☼";
     }
   },
   methods: {
