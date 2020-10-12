@@ -2,6 +2,8 @@
   <div> 
     <Nuxt />
  
+
+    <Footer/>
   </div>
 </template>
 

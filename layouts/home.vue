@@ -1,9 +1,11 @@
 <template>
   <div> 
       <Splash/>
-      <ColorModePicker class="absolute top-0 right-0"/>
+      <ColorModePicker aria-label="darkmode light-mode switch button" class="absolute top-0 right-0"/>
       
-    <Nuxt />
+      <Nuxt />
+
+      <Footer/>
   </div>
 </template>
 
