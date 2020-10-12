@@ -1,0 +1,47 @@
+@font-face { 
+    font-family: 'JuliaMono-light';
+    font-style: normal;
+    font-weight: 400; 
+    font-display: swap;
+    src: url('~assets/fonts/JuliaMono-Light.woff2') format('woff2')
+}
+
+@font-face { 
+    font-family: 'JuliaMono-regular';
+    font-style: normal;
+    font-weight: 400; 
+    font-display: swap;
+    src: url('~assets/fonts/JuliaMono-Regular.woff2') format('woff2')
+} 
+
+@font-face { 
+    font-family: 'JuliaMono-medium';
+    font-style: normal;
+    font-weight: 400; 
+    font-display: swap;
+    src: url('~assets/fonts/JuliaMono-Medium.woff2') format('woff2')
+} 
+
+@font-face { 
+    font-family: 'FerriteCore-display';
+    font-style: normal;
+    font-weight: 600; 
+    font-display: swap;
+    src: url('~assets/fonts/FerriteCoreDX-Display.ttf') format('truetype')
+} 
+
+@font-face { 
+    font-family: 'FerriteCore-light';
+    font-style: normal;
+    font-weight: 600; 
+    font-display: swap;
+    src: url('~assets/fonts/FerriteCoreDX-Light.ttf') format('truetype')
+} 
+
+div { 
+    font-family: 'JuliaMono-regular';
+} 
+
+button { 
+    font-family: 'JuliaMono-regular';
+} 

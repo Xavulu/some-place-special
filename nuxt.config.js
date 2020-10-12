@@ -28,7 +28,7 @@ export default {
   /*
   ** Global CSS
   */
-  css: ['@/assets/css/palettes.css'],
+  css: ['@/assets/css/palettes.css', '@/assets/css/fonts.css'],
   /*
   ** Plugins to load before mounting the App
   ** https://nuxtjs.org/guide/plugins
@@ -48,7 +48,7 @@ export default {
     '@nuxtjs/tailwindcss', '@nuxtjs/color-mode',
   ], 
   purgeCSS: {
-    whitelist: ['dark-mode']
+    whitelist: ['dark-mode', 'fontFamily', 'fontSize']
   },
   /*
   ** Nuxt.js modules
