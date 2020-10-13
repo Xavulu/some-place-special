@@ -7,7 +7,7 @@
 <script>
     export default {
     layout(context) {
-      return 'dwatch'
+      return 'watch'
     }
   }
 </script>

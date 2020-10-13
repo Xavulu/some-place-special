@@ -70,7 +70,7 @@ export default {
   */
   content: {},
   generate: {
-    
+    fallback: true
   },
 
   /*
