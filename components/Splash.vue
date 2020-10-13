@@ -2,18 +2,14 @@
     <div class="absolute inset-0 flex flex-col items-center justify-center">
         <img v-if="mode === 'light'" class="logo" src="~/static/images/exef_logo_light.svg/" style="width:700px" alt="exef.dev logo"/> 
         <img v-else-if="mode === 'dark'" class="logo" src="~/static/images/exef_logo_dark.svg/" style="width:700px" alt="exef.dev logo"/>
-        <div class="flex items-center mb-6 md:mb-1 lg:mb-1 xl:mb-1"> 
+        <div class="flex items-center mb-6 md:mb-1 lg:mb-1 xl:mb-1 pb-10"> 
             <span class="text-black dark:text-white text-xl"></span>
             <div id="op0" class="grid grid-cols-1 bg-dark-teal text-white  rounded">
-                <div><span class="font-ferrite-light">[WELCOME TO HTTPS://XF.EXEF.DEV]</span></div>
+                <div><span class="font-ferrite-light">[ <span class="hidden md:inline-block lg:inline-block xl:inline-block">WELCOME TO </span> HTTPS://XF.EXEF.DEV ]</span></div>
             </div>
             <span class="text-black dark:text-white text-xl"></span> 
         </div> 
-        <div class="flex items-center md:hidden lg:hidden xl:hidden">
-                <div class="grid grid-cols-1 "> 
-                    
-                </div>
-            </div>
+        
         <div class="mb-20 inset-2 flex items-center justify-bottom">
             <div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-3 xl:grid-cols-3 gap-10 ">
                 <div id="op1" aria-label="link to about page" class="mb-2 bg-light dark:bg-dark border border-dotted border-dark-dhover dark:border-dark-teal inline-block font-bold px-4 py-2 m-2 rounded-l-lg hover:bg-light-hover dark-hover:bg-dark-dhover"><nuxt-link to="/about" ><span class="text-pink-700 dark:text-light-lavender">@</span>xf<span class="text-ferrite-display hidden md:inline-block lg:inline-block xl:inline-block">::</span><span class="md:hidden lg:hidden xl:hidden text-julia-regular text-base text-black dark:text-white"></span><span class="block md:inline-block lg:inline-block xl:inline-block text-light-logo dark:text-dark-blue">about[<span class="text-light-red dark:text-dark-logo ">+</span>]</span></nuxt-link></div>
@@ -29,10 +25,10 @@
                 <div id="op6" aria-label="link to glitch art page, epilepsy warning for this one" class="mb-2 bg-light dark:bg-dark border border-dotted border-dark-dhover dark:border-dark-teal inline-block font-bold px-4 py-2 m-2 rounded-r-lg hover:bg-light-hover dark-hover:bg-dark-dhover"><nuxt-link to="/fun/terminus"><span class="text-pink-700 dark:text-light-lavender">@</span>xf<span class="text-ferrite-display hidden md:inline-block lg:inline-block xl:inline-block">::</span><span class="md:hidden lg:hidden xl:hidden text-julia-regular text-base text-black dark:text-white "></span><span class="block md:inline-block lg:inline-block xl:inline-block text-light-logo dark:text-dark-blue">null[<span class="text-light-red dark:text-dark-logo">?</span>]</span></nuxt-link></div>
             </div>
         </div> 
-        <div class="flex items-center mb-6 md:mb-1 lg:mb-1 xl:mb-1"> 
+        <div class="flex items-center mb-6 md:mb-1 lg:mb-1 xl:mb-1 pb-5"> 
             <span class="text-black dark:text-white text-xl"></span>
             <div id="op0" class="grid grid-cols-1 bg-dark-teal text-white  rounded">
-                <div><span class="font-ferrite-light">[ENJOY (^ш^)]</span></div>
+                <div><span class="font-ferrite-light">[ <span class="hidden md:inline-block lg:inline-block xl:inline-block">ENJOY</span> (^ш^) ]</span></div>
             </div>
             <span class="text-black dark:text-white text-xl"></span> 
         </div> 
