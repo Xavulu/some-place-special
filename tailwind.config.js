@@ -30,6 +30,10 @@ module.exports = {
     },
     darkSelector: '.dark-mode',
     extend: { 
+      backgroundOpacity: {
+        '10': '0.1', 
+        '20': '0.2',
+      },
       colors: { 
           light: { 
             default: 'var(--light-beige)', 
@@ -75,7 +79,7 @@ module.exports = {
        'responsive'
       ]
   },
-  plugins: [require('tailwindcss-dark-mode')(), require("@tailwindcss/typography")()],
+  plugins: [require('tailwindcss-dark-mode')(), require("@tailwindcss/typography")(),require('@tailwindcss/ui')()],
   purge: {
     // Learn more on https://tailwindcss.com/docs/controlling-file-size/#removing-unused-css
     enabled: process.env.NODE_ENV === 'production',

@@ -45,3 +45,29 @@ div {
 button { 
     font-family: 'JuliaMono-regular';
 } 
+
+#op0 {
+    opacity: 0.7;
+} 
+#op1 {
+    opacity: 0.7;
+}
+#op2 {
+    opacity: 0.7;
+} 
+#op3 {
+    opacity: 0.7;
+} 
+#op4 {
+    opacity: 0.7;
+}
+#op5 {
+    opacity: 0.7;
+}
+#op6 {
+    opacity: 0.7;
+} 
+
+#colorpick {
+    opacity: 0.7;
+}
