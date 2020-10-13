@@ -5,7 +5,7 @@
         <div class="flex items-center mb-6 md:mb-1 lg:mb-1 xl:mb-1 pb-10"> 
             <span class="text-black dark:text-white text-xl"></span>
             <div id="op0" class="grid grid-cols-1 bg-dark-teal text-white  rounded">
-                <div><span class="font-ferrite-light">[ <span class="hidden md:inline-block lg:inline-block xl:inline-block">WELCOME TO </span> HTTPS://XF.EXEF.DEV ]</span></div>
+                <div><span class="font-ferrite-light"> <span class="hidden md:inline-block lg:inline-block xl:inline-block">WELCOME TO </span> <a href="https://xf.exef.dev">:HTTPS://XF.EXEF.DEV:</a></span></div>
             </div>
             <span class="text-black dark:text-white text-xl"></span> 
         </div> 
@@ -28,7 +28,7 @@
         <div class="flex items-center mb-6 md:mb-1 lg:mb-1 xl:mb-1 pb-5"> 
             <span class="text-black dark:text-white text-xl"></span>
             <div id="op0" class="grid grid-cols-1 bg-dark-teal text-white  rounded">
-                <div><span class="font-ferrite-light">[ <span class="hidden md:inline-block lg:inline-block xl:inline-block">ENJOY</span> (^ш^) ]</span></div>
+                <div><span class="font-ferrite-light"> <span class="hidden md:inline-block lg:inline-block xl:inline-block">ENJOY</span> .(^ш^). </span></div>
             </div>
             <span class="text-black dark:text-white text-xl"></span> 
         </div> 
