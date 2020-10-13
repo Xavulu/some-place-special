@@ -51,7 +51,7 @@
                 this.controls.minPolarAngle = 1.5708
                 this.controls.maxPolarAngle = 1.5708
                 this.controls.autoRotate = true
-                this.controls.autoRotateSpeed = 0.25
+                this.controls.autoRotateSpeed = 0.75
             },
             createLights() {
                 const ambientLight = new THREE.AmbientLight( 0xffffff, 1 )
