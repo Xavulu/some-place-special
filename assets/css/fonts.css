@@ -71,3 +71,8 @@ button {
 #colorpick {
     opacity: 0.7;
 } 
+
+#err {
+    opacity: 0.5;
+} 
+
