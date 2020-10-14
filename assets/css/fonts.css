@@ -76,3 +76,15 @@ button {
     opacity: 0.5;
 } 
 
+#links2 { 
+    opacity: 0.5;
+}
+
+#fun { 
+    opacity: 0.6;
+} 
+
+#ascii { 
+    font-family: monospace;
+    white-space: pre;
+}

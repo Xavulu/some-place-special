@@ -1,10 +1,8 @@
 <template>
   <div> 
+      <TheCube/>
       <Header/>
-      
-      <Nuxt />
- 
-
+      <Nuxt/>
       <Footer/>
   </div>
 </template>

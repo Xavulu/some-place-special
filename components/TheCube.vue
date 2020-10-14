@@ -1,5 +1,5 @@
 <template>
-   <section class="scene pointer-events-none w-auto h-auto md:absolute lg:absolute xl:absolute " ref="scene"></section>
+   <section class="pointer-events-none scene w-auto h-auto absolute" ref="scene"></section>
 </template>
 
 <script>
@@ -28,7 +28,7 @@
                 this.createControls()
                 this.createLights()
                 this.createRenderer()
-                this.loadModel()
+                
                 
                 this.renderer.setAnimationLoop(() => {
                     this.update()
@@ -94,23 +94,6 @@
                 this.renderer.autoClear = false;
                 this.renderer.setClearColor(0x000000, 0.0)
                 this.container.appendChild( this.renderer.domElement )
-            },
-            loadModel() {
-                const loader = new GLTFLoader()
-                
-                loader.load(
-                    'models/untitled.gltf',
-                    ( gltf ) => {
-                        gltf.scene.position.set( 0, 0, 0)
-                        this.scene.add(gltf.scene)
-                    },
-                    ( xhr ) => {
-                        console.log( `${( xhr.loaded / xhr.total * 100 )}% loaded` )
-                    },
-                    ( error ) => {
-                        console.error( 'An error happened', error )
-                    },
-                )
             },
             update() {
                 this.controls.update()
