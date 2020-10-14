@@ -6,10 +6,10 @@
                   <img src="~/static/images/exef_os_dark.svg" alt="exef os logo ascii art thing" style="width-200px"/>
                   <span class="text-pink-800"> This page is a work in <span class="block md:inline-block lg:inline-block xl:inline-block">progress come back soon™</span></span>
                   <div id="ascii" class="text-red-900"> 
-                    |￣￣￣￣￣￣￣￣|
-                    |be      |
-                    |patient | 
-                    | ＿＿＿＿＿__| 
+                    |￣￣￣￣￣￣￣|
+                    |be         |
+                    |patient    | 
+                    |_＿＿＿＿＿__| 
                     (\__/) || 
                     (•ㅅ•) || 
                     / 　 づ 
