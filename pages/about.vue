@@ -1,6 +1,6 @@
 <template>
     <div>
-        <div class="max-w-sm rounded overflow-hidden shadow-lg ">
+        <div class="max-w-sm rounded overflow-hidden shadow-lg block">
             <div  class="absolute pointer-events-none flex items-center justify-center w-screen h-screen overflow-y-auto pb-10 pt-5">
                 <div id="fun" class="rounded pointer-events-auto border-dotted border-dark-dhover bg-light-lavender dark:bg-black"> 
                     <div class="grid grid-cols-1"> 
@@ -58,7 +58,7 @@
              </div>
             </div>
     </div> 
-    <Footer class="pointer-events-auto pt-10"/>
+    <Footer class="pointer-events-auto pt-10 block"/>
 </div>
 </template>
 
