@@ -57,14 +57,15 @@
                     </div>
              </div>
             </div>
-    </div>
+    </div> 
+    <Footer class="pointer-events-auto pt-10"/>
 </div>
 </template>
 
 <script>
     export default {
         layout(context) {
-            return 'default'
+            return 'aboutme'
         },
     }
 </script>
