@@ -1,13 +1,13 @@
 <template>
     <div>
         <div class="max-w-sm rounded overflow-hidden shadow-lg ">
-            <div  class="absolute pointer-events-none flex items-center justify-center w-screen h-screen overflow-y-auto">
+            <div  class="absolute pointer-events-none flex items-center justify-center w-screen h-screen overflow-y-auto pb-10 pt-5">
                 <div id="fun" class="rounded pointer-events-auto border-dotted border-dark-dhover bg-light-lavender dark:bg-black"> 
                     <div class="grid grid-cols-1"> 
                        <img id="xavier" alt="a gif of me" style="width:400px" src="~static/images/me.gif"/>
                         <div>
                             <span class="text-xl"> Xavier Fernandez</span>
-                            <span class="text-xxs block">UUID: 89c0906b-8116-4279-acb7-e084af44006c</span>
+                            <span class="text-xxs block">UUID: 89c0906b-8116-4279-acb7-e084af44006c <span class="text-red-400"> ⬢ v23.00.1 </span></span>
                             <span id="pt" class="text-sm block text-pink-800"> present day... present time... </span>
                             <span id="lang" class="block">[<span class="text-indigo-800 dark:text-red-800">About</span>]: 
                                 <span class="text-xs"> aspiring backend software engineer </span>
