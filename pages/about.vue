@@ -8,7 +8,7 @@
                         <div>
                             <span class="text-xl"> Xavier Fernandez</span>
                             <span class="text-xxs block">UUID: 89c0906b-8116-4279-acb7-e084af44006c <span class="text-red-400 dark:text-green-300"> ⬢ v23.00.1 </span></span>
-                            <span id="pt" class="text-sm block text-pink-800"> present day... present time... </span> 
+                            <span id="pt" aria-label="present day present time, you know like serial experiments lain?" class="text-sm block text-pink-800"> present day... present time... </span> 
                             <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 xl:grid-cols-2">
                             <span id="lang" class="block md:pb-2 lg:pb-2 xl:pb-2">[<span class="text-indigo-800 dark:text-red-800">About</span>]: 
                                 <span class="text-xs"> aspiring software engineer with an
